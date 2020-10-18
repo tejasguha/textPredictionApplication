@@ -1,0 +1,12 @@
+name: textPredictionApp
+title: textPredictionApp
+username:
+account: roof-tiles
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2489053
+bundleId: 3320270
+url: https://roof-tiles.shinyapps.io/textPredictionApp/
+when: 1593189738.7966
+asMultiple: FALSE
+asStatic: FALSE
